@@ -112,8 +112,8 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 
 6. CONCLUSIONES
 
-* Una inductancia en estado estable en DC se comporta como un corto circuito, mientras que en AC a muy alta frecuencia se comporta como un circuito abierto. 
-* Una capacitancia en estado estable en DC se comporta como un circuito abierto, mientras que en AC a muy alta frecuencia se comporta como un circuito cerrado.
+* Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable. 
+* En el análisis de circuitos eléctricos una señal senoidal, que representa la tensión o corriente se puede expresar matemáticamente como una función del tiempo.
 
 7. BIBLIOGRAFIA
 
